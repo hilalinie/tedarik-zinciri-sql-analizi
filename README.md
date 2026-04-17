@@ -1,7 +1,5 @@
-# tedarik-zinciri-sql-analizi
-SQLite ile tedarik zinciri analizi | ABC analizi, stok yönetimi, tedarikçi skorecard | CTE + Window Functions | Google Colab
 # Tedarik Zinciri SQL Analizi
-
+SQLite ile tedarik zinciri analizi | ABC analizi, stok yönetimi, tedarikçi skorecard | CTE + Window Functions | Google Colab
 ## Proje Hakkında
 
 Bu projede Kaggle'dan alınan gerçek bir tedarik zinciri veri seti üzerinde **SQLite** kullanılarak kapsamlı bir veri analizi gerçekleştirilmiştir. Temel SQL sorgularından başlayarak CTE (Common Table Expressions) ve Window Functions gibi ileri seviye teknikler uygulanmış; sonuçlar Python ve Matplotlib ile görselleştirilmiştir.
